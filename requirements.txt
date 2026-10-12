@@ -1,0 +1,8 @@
+django==1.11
+pandas==0.99.0
+beautiful-soup==4.6.0
+langchain-agents-toolkit==0.2.1
+scikit-learn==0.20.0
+six==1.10.0
+openai-function-caller==0.3.0
+requests==2.31.0
